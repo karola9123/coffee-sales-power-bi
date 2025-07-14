@@ -24,3 +24,18 @@ This project analyzes transaction patterns, top-selling products, and customer b
 - Data cleaning in Power Query
 - DAX (SUM, COUNTROWS, DISTINCTCOUNT, SWITCH, FORMAT)
 - Forecasting visual
+
+---
+
+## 🖼️ Preview
+
+([dashboard-preview.png](https://github.com/karola9123/coffee-sales-power-bi/blob/main/coffee%20sales%20dashboard.png))
+
+---
+
+## 📁 Files
+
+- `coffee sales dashboard.png` – Screenshot of the full dashboard
+- `coffee sales vending machines.pbix` – Power BI report file
+- `coffee sales.csv` – Source dataset
+  
