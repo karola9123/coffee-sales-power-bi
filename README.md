@@ -29,7 +29,7 @@ This project analyzes transaction patterns, top-selling products, and customer b
 
 ## 🖼️ Preview
 
-([dashboard-preview.png](https://github.com/karola9123/coffee-sales-power-bi/blob/main/coffee%20sales%20dashboard.png))
+![Coffee Sales Dashboard](coffee%20sales%20dashboard.png)
 
 ---
 
