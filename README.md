@@ -23,7 +23,6 @@ This project analyzes transaction patterns, top-selling products, and customer b
 - Power BI Desktop
 - Data cleaning in Power Query
 - DAX (SUM, COUNTROWS, DISTINCTCOUNT, SWITCH, FORMAT)
-- Forecasting visual
 
 ---
 
